@@ -1,6 +1,6 @@
 # Barbearia Alura
 
-Projeto feito atráves dos cursos de HTML5 e CSS3 da Alura em abril/2021.
+Projeto feito através dos cursos de HTML5 e CSS3 da Alura em abril/2021.
 
     Alguns dos conteúdos que aprendi com os cursos :
 
